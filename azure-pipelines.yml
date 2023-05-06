@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'AzPipeline-rg'
     location: 'Central US'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/FreeheelGreg/AzPipeline/main/create_web_app/azuredeploy.json?token=GHSAT0AAAAAACBVQ2LJNAXDQP3TRKDHICBEZCW3R5A'
+    csmFileLink: 'https://raw.githubusercontent.com/FreeheelGreg/AzPipeline/main/create_web_app/azuredeploy.json?token=GHSAT0AAAAAACBVQ2LJGBC2QP4Z7554GQREZCW37RQ'
     overrideParameters: '-projectName myAzPipelines'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
